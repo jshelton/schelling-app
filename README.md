@@ -1,3 +1,7 @@
+# schelling-app
+
+c67108db78e7d7aa2d792c5315ab62193a70ba03
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
